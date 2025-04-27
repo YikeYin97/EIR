@@ -22,7 +22,6 @@ matplotlib
 ### An example srcipt for 5-3 overlapped setting of PASCAL VOC
 
 ```
-PORT='tcp://127.0.0.1:24568'
 GPU=1
 BS=32  # Total 32
 SAVEDIR='_saved_voc'   
